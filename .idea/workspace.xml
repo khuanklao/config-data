@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b47828e1-353c-4041-a1b2-17e348554db1" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/auth-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-server" />
   </component>
   <component name="RunManager">
     <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -67,7 +65,7 @@
       <workItem from="1592984464410" duration="20000" />
       <workItem from="1592986409727" duration="825000" />
       <workItem from="1592987265294" duration="2065000" />
-      <workItem from="1592992534634" duration="977000" />
+      <workItem from="1592992534634" duration="3060000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1592993611702</created>
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592993611703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1592993887943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592993887943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,14 +104,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1592987038783">
+    <state x="592" y="322" key="#YAML" timestamp="1592996037386">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592987038783" />
+    <state x="592" y="322" key="#YAML/0.0.1600.860@0.0.1600.860" timestamp="1592996037386" />
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1592996074004">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1592996074004" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1592994073872">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592994073872" />
+    <state x="551" y="149" key="RollbackChangesDialog" timestamp="1592995799586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="551" y="149" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1592995799586" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1592993624805">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1592993624805" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592995943709">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1592995943709" />
     <state x="182" y="0" key="new project wizard" timestamp="1592986948306">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
